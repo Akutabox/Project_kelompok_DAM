@@ -4,7 +4,7 @@
 
 | No. | Nama Anggota | NIM |
 |-----|--------------|-----|
-| 1   | Ahmad Paesol | 2501010143 |
+| 1   | Ahmad Paesoel | 2501010143 |
 | 2   | Billy Maulana Hasan | 2501010140 |
 
 # Peta & Ulasan Warung Kuliner Denpasar
